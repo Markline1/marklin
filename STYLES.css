@@ -1,0 +1,112 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+.henry {
+  background-image: url(website-importance-for-business.jpg);
+  background-attachment: scroll;
+  width: 100vw;
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+nav {
+  list-style-type: nonee;
+  display: flex ;
+  text-align: center;
+  font-size: 3ch;
+  justify-content: space-around;
+  padding-top: 30%;
+  padding-left: 8%;
+  padding-right: 8%;
+
+}
+
+
+
+
+.chalk {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  letter-spacing: 1pt;
+  font-style: oblique;
+  font-size: 300%;
+}
+
+span {
+  color: rgba(95, 94, 94, 0.705);
+}
+
+nav {
+  list-style-type: none;
+  display: -moz-inline-grid;
+  padding: 10px 25px;
+  color: black;
+  text-decoration: none;
+}
+.out{
+  font-size: 1cm;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: gray;
+  
+}
+
+.btt:hover {
+  transform: scale(1);
+}
+
+.bugs {
+  position: absolute;
+  top: 50%;
+  left: 8%;
+  font-size: 00.5cm;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h3 {
+  color: greenyellow;
+  margin: '20px 0px 20px';
+  font-size: 60px;
+}
+
+h2 {
+  color: rgb(139, 247, 139);
+}
+
+h4 {
+  font-size: larger;
+  color: rgb(145, 238, 145);
+}
+
+.nike form {
+  width: 380px;
+  max-width: 100%;
+  position: relative;
+}
+
+.nike form input:first-child {
+  display: inline-block;
+  width: 100%;
+  padding: 13px 130px 10px 12px;
+  border: 0.5px solid rgb(240, 160, 13);
+  outline: none;
+  border-radius: 30px;
+}
+
+.nike form input:last-child {
+  position: absolute;
+  display: inline-block;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 30px;
+  background-color: rgb(25, 25, 31);
+  color: aliceblue;
+  top: 2px;
+  right: 3px;
+}
